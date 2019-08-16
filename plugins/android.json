@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.hello"
+    },
+    "clevertap-cordova": {
+      "CLEVERTAP_ACCOUNT_ID": "TEST-R99-W49-565Z",
+      "CLEVERTAP_TOKEN": "TEST-c40-cc2",
+      "CLEVERTAP_REGION": " ",
+      "PACKAGE_NAME": "com.example.hello"
+    }
+  },
+  "dependent_plugins": {}
+}
